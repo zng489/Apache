@@ -1,5 +1,6 @@
 # Apache Spark
 
+-> User variable for Zng-LENOVO
 * ########################################
 - Variable name: SPARK_HOME
 - C:\spark
