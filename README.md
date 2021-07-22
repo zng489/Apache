@@ -4,6 +4,7 @@
 * ########################################
 - Variable name: SPARK_HOME
 - C:\spark
+- C:\spark\conf\log4j.properties.template > log4j.rootCategory=ERROR, console
 - %SPARK_HOME%\bin 
 * ########################################
 - Variable name: HADDOP_HOME
