@@ -26,3 +26,5 @@
 - System variables
 - C:\Users\Zng-LENOVO\Anaconda3\Scripts
 * ########################################
+System environment variables are globally accessed by all users.
+User environment variables are specific only to the currently logged-in user.
