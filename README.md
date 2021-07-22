@@ -7,3 +7,6 @@
 - Variable name: HADDOP_HOME
 - C:\winutils
 * ########################################
+- Variable name: JAVA_HOME
+- C:\jdk
+- * ########################################
