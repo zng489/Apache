@@ -11,6 +11,7 @@
 * ########################################
 - Variable name: JAVA_HOME
 - C:\jdk
+- %JAVA_HOME%\bin
 * ########################################
 - Variable name: CASSANDRA_HOME
 - C:\cassandra
