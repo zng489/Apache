@@ -16,6 +16,8 @@
 * ########################################
 - Variable name: CASSANDRA_HOME
 - C:\cassandra
+- Environment (Activate) and python 2.7
+- cqlsh> show version
 * ########################################
 * ########################################
 - System variables
