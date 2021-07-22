@@ -4,6 +4,7 @@
 * ########################################
 - Variable name: SPARK_HOME
 - C:\spark
+- %SPARK_HOME%\bin
 * ########################################
 - Variable name: HADDOP_HOME
 - C:\winutils
