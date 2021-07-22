@@ -4,7 +4,7 @@
 * ########################################
 - Variable name: SPARK_HOME
 - C:\spark
-- %SPARK_HOME%\bin
+- %SPARK_HOME%\bin 
 * ########################################
 - Variable name: HADDOP_HOME
 - C:\winutils
@@ -15,4 +15,8 @@
 * ########################################
 - Variable name: CASSANDRA_HOME
 - C:\cassandra
+* ########################################
+* ########################################
+-> System variables
+- C:\sqlite
 * ########################################
