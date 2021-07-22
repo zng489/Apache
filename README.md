@@ -20,3 +20,9 @@
 - System variables
 - C:\sqlite
 * ########################################
+- System variables
+- C:\Users\Zng-LENOVO\Anaconda3
+* ########################################
+- System variables
+- C:\Users\Zng-LENOVO\Anaconda3\Scripts
+* ########################################
